@@ -17,7 +17,7 @@
   <a href="https://studiobrittany.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-F791E4?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad" /></a>
 </p>
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h3 align="center"><b>TECH STACK</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Notion-1a1a1a?style=flat-square&logo=notion&logoColor=F791E4" alt="Notion" />
   <img src="https://img.shields.io/badge/Adobe_Creative_Suite-1a1a1a?style=flat-square&logo=adobe&logoColor=F791E4" alt="Adobe Creative Suite" />
@@ -40,5 +40,21 @@
   <img src="https://img.shields.io/badge/ManyChat-1a1a1a?style=flat-square" alt="ManyChat" />
   <img src="https://img.shields.io/badge/Cricut_Design_Space-1a1a1a?style=flat-square" alt="Cricut Design Space" />
   <img src="https://img.shields.io/badge/Evernote-1a1a1a?style=flat-square&logo=evernote&logoColor=F791E4" alt="Evernote" />
+</p>
+
+<h3 align="center"><b>HARDWARE</b></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-1a1a1a?style=flat-square&logo=apple&logoColor=F791E4" alt="macOS" />
+  <img src="https://img.shields.io/badge/iPhone-1a1a1a?style=flat-square&logo=apple&logoColor=F791E4" alt="iPhone" />
+  <img src="https://img.shields.io/badge/Apple_Watch-1a1a1a?style=flat-square&logo=apple&logoColor=F791E4" alt="Apple Watch" />
+  <img src="https://img.shields.io/badge/iPad-1a1a1a?style=flat-square&logo=apple&logoColor=F791E4" alt="iPad" />
+</p>
+
+<h3 align="center"><b>VIBES</b></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_With_Sarcasm-F791E4?style=for-the-badge&logoColor=white" alt="Made With Sarcasm" />
+  <img src="https://img.shields.io/badge/Building_In_Public-F791E4?style=for-the-badge&logoColor=white" alt="Building In Public" />
+  <img src="https://img.shields.io/badge/Black_Cat_Mama-1a1a1a?style=for-the-badge&logo=github&logoColor=F791E4" alt="Black Cat Mama" />
+  <img src="https://img.shields.io/badge/ADHDer-1a1a1a?style=for-the-badge&logoColor=F791E4" alt="ADHDer" />
 </p>
 
