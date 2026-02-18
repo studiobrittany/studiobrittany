@@ -36,6 +36,6 @@ NOTION, ADOBE CREATIVE SUITE, CLAUDE AI, CHATGPT, GEMINI, MIDJOURNEY, CANVA, VS 
   <img src="https://img.shields.io/badge/BUILDING_IN_PUBLIC-F791E4?style=for-the-badge&logoColor=1a1a1a" alt="Building In Public" />
   <img src="https://img.shields.io/badge/ADHDER-F791E4?style=for-the-badge&logoColor=1a1a1a" alt="ADHDer" />
   <img src="https://img.shields.io/badge/BLACK_CAT_MAMA-F791E4?style=for-the-badge&logoColor=1a1a1a" alt="Black Cat Mama" />
-  <img src="https://img.shields.io/badge/MADE_WITH_SARCASM-F791E4?style=for-the-badge&logoColor=1a1a1a" alt="Made With Sarcasm" />
+  <img src="https://img.shields.io/badge/MADE_WITH_SASS-F791E4?style=for-the-badge&logoColor=1a1a1a" alt="Made With Sarcasm" />
 </p>
 
