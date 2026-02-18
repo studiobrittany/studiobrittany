@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  Multi-hyphenate creative & founder of <a href="https://studiobrittany.com">Studio Brittany</a> — a boutique creative studio for rebellious entrepreneurs. I craft super rad systems, transformative tech tools & AI workflows for like-minded creatives on the world wide web.
+  Multi-hyphenate creative & founder of <b>Studio Brittany</b> — a boutique creative studio for rebellious entrepreneurs. I craft super rad systems, transformative tech tools & AI workflows for like-minded creatives on the world wide web.
 </p>
