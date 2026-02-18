@@ -19,18 +19,18 @@
 
 <h3 align="center"><b>TECH STACK</b></h3>
 <!-- Tools with official shields.io logos -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Notion-1a1a1a?style=flat-square&logo=notion&logoColor=F791E4" alt="Notion" />
-  <img src="https://img.shields.io/badge/Adobe_Creative_Suite-1a1a1a?style=flat-square&logo=adobe&logoColor=F791E4" alt="Adobe Creative Suite" />
-  <img src="https://img.shields.io/badge/Claude_AI-1a1a1a?style=flat-square&logo=anthropic&logoColor=F791E4" alt="Claude AI" />
-  <img src="https://img.shields.io/badge/ChatGPT-1a1a1a?style=flat-square&logo=openai&logoColor=F791E4" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-1a1a1a?style=flat-square&logo=googlegemini&logoColor=F791E4" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Canva-1a1a1a?style=flat-square&logo=canva&logoColor=F791E4" alt="Canva" />
-  <img src="https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=F791E4" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Setapp-1a1a1a?style=flat-square" alt="Setapp" />
-  <img src="https://img.shields.io/badge/Arc_Browser-1a1a1a?style=flat-square&logo=arc&logoColor=F791E4" alt="Arc Browser" />
-  <img src="https://img.shields.io/badge/Proton_Suite-1a1a1a?style=flat-square&logo=proton&logoColor=F791E4" alt="Proton Suite" />
-  <img src="https://img.shields.io/badge/Evernote-1a1a1a?style=flat-square&logo=evernote&logoColor=F791E4" alt="Evernote" />
+<p align="center"><b>
+NOTION<br>
+ADOBE CREATIVE SUITE<br>
+CLAUDE AI<br>  
+CHATGPT<br>
+GEMINI<br>
+CANVA<br>
+VS CODE<br>
+SETAPP<br>
+ARC BROWSER<br>
+PROTON SUITE<br>
+EVERNOTE<br></b>
 </p>
 
 <h3 align="center"><b>HARDWARE</b></h3>
