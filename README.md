@@ -1,1 +1,1 @@
-![Studio Brittany Banner](readme-header.png)
+<img src="readme-header.png" width="100%" />
