@@ -52,9 +52,9 @@
 
 <h3 align="center"><b>VIBES</b></h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Made_With_Sarcasm-F791E4?style=for-the-badge&logoColor=white" alt="Made With Sarcasm" />
-  <img src="https://img.shields.io/badge/Building_In_Public-F791E4?style=for-the-badge&logoColor=white" alt="Building In Public" />
-  <img src="https://img.shields.io/badge/Black_Cat_Mama-1a1a1a?style=for-the-badge&logo=github&logoColor=F791E4" alt="Black Cat Mama" />
-  <img src="https://img.shields.io/badge/ADHDer-1a1a1a?style=for-the-badge&logoColor=F791E4" alt="ADHDer" />
+  <img src="https://img.shields.io/badge/BUILDING_IN_PUBLIC-F791E4?style=for-the-badge&logoColor=1a1a1a" alt="Building In Public" />
+  <img src="https://img.shields.io/badge/ADHDER-F791E4?style=for-the-badge&logoColor=1a1a1a" alt="ADHDer" />
+  <img src="https://img.shields.io/badge/BLACK_CAT_MAMA-F791E4?style=for-the-badge&logoColor=1a1a1a" alt="Black Cat Mama" />
+  <img src="https://img.shields.io/badge/MADE_WITH_SARCASM-F791E4?style=for-the-badge&logoColor=1a1a1a" alt="Made With Sarcasm" />
 </p>
 
