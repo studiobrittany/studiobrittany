@@ -1,4 +1,4 @@
-<img src="studio-brittany-github-banner.png" width="100%" />
+<img src="assets/studio-brittany-github-banner.png" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=30&duration=3000&pause=100&color=F70000&center=true&vCenter=true&width=435&lines=creator.;builder.;writer.;designer." alt="Typing SVG" /></a>
