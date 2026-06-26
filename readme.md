@@ -17,13 +17,17 @@
   <a href="https://studiobrittany.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-E10613?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad" /></a>
 </p>
 
-<h3 align="center"><b>TECH STACK</b></h3>
+<p align="center">
+  <img src="assets/tech-stack.svg" width="100%" alt="tech stack">
+</p>
 
 <p align="center">
 NOTION, ADOBE CREATIVE SUITE, CLAUDE COWORK, CHATGPT, CLAUDE CODE, MIDJOURNEY, CLAUDE DESIGN, CANVA, VS CODE, SETAPP, POPCLIP, CAPCUT, SQUARESPACE, AFFINITY, ASANA, OBSIDIAN, ICLOUD & MORE
 </p>
 
-<h3 align="center"><b>HARDWARE</b></h3>
+<p align="center">
+  <img src="assets/hardware.svg" width="100%" alt="hardware">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-1a1a1a?style=flat-square&logo=apple&logoColor=E10613" alt="macOS" />
@@ -32,7 +36,9 @@ NOTION, ADOBE CREATIVE SUITE, CLAUDE COWORK, CHATGPT, CLAUDE CODE, MIDJOURNEY, C
   <img src="https://img.shields.io/badge/iPad-1a1a1a?style=flat-square&logo=apple&logoColor=E10613" alt="iPad" />
 </p>
 
-<h3 align="center"><b>VIBES</b></h3>
+<p align="center">
+  <img src="assets/vibes.svg" width="100%" alt="vibes">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BUILDING_IN_PUBLIC-E10613?style=for-the-badge&logoColor=white" alt="Building In Public" />
