@@ -17,6 +17,14 @@
   <a href="https://studiobrittany.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-E10613?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad" /></a>
 </p>
 
+<br>
+
+<p align="center">
+  <img src="assets/barbed-wire.svg" width="100%" alt="barbies">
+</p>
+
+<br>
+
 <p align="center">
   <img src="assets/tech-stack.svg" width="100%" alt="tech stack">
 </p>
@@ -24,6 +32,14 @@
 <p align="center">
 NOTION, ADOBE CREATIVE SUITE, CLAUDE COWORK, CHATGPT, CLAUDE CODE, MIDJOURNEY, CLAUDE DESIGN, CANVA, VS CODE, SETAPP, POPCLIP, CAPCUT, SQUARESPACE, AFFINITY, ASANA, OBSIDIAN, ICLOUD & MORE
 </p>
+
+<br>
+
+<p align="center">
+  <img src="assets/barbed-wire.svg" width="100%" alt="barbies">
+</p>
+
+<br>
 
 <p align="center">
   <img src="assets/hardware.svg" width="100%" alt="hardware">
@@ -35,6 +51,14 @@ NOTION, ADOBE CREATIVE SUITE, CLAUDE COWORK, CHATGPT, CLAUDE CODE, MIDJOURNEY, C
   <img src="https://img.shields.io/badge/Apple_Watch-1a1a1a?style=flat-square&logo=apple&logoColor=E10613" alt="Apple Watch" />
   <img src="https://img.shields.io/badge/iPad-1a1a1a?style=flat-square&logo=apple&logoColor=E10613" alt="iPad" />
 </p>
+
+<br>
+
+<p align="center">
+  <img src="assets/barbed-wire.svg" width="100%" alt="barbies">
+</p>
+
+<br>
 
 <p align="center">
   <img src="assets/vibes.svg" width="100%" alt="vibes">
