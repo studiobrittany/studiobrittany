@@ -1,11 +1,11 @@
-<img src="readme-header.png" width="100%" />
+<img src="studio-brittany-github-banner.png" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&duration=3000&pause=300&color=F791E4&center=true&vCenter=true&width=450&lines=Strategist.;Designer.;Writer.;Builder.;Creator." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  Multi-hyphenate creative & founder of <b>Studio Brittany</b> — a boutique creative studio for rebellious entrepreneurs. I craft super rad systems, transformative tech tools & AI workflows for like-minded creatives on the world wide web.
+  multi-hyphenate creative & founder of <b>studio brittany</b> — a boutique creative studio for rebellious entrepreneurs. i craft super rad systems, transformative tech tools & ai workflows for cool cat creatives on the world wide web.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 <h3 align="center"><b>TECH STACK</b></h3>
 <!-- Tools with official shields.io logos -->
 <p align="center">
-NOTION, ADOBE CREATIVE SUITE, CLAUDE AI, CHATGPT, GEMINI, MIDJOURNEY, CANVA, VS CODE, WHISK, SETAPP, POPCLIP, CAPCUT, SMMALL CLOUD, ARC BROWSER, PROTON SUITE, EVERNOTE, BLOOM, GOOGLE WORKSPACE, TEACHERY, SQUARESPACE
+NOTION, ADOBE CREATIVE SUITE, CLAUDE COWORK, CHATGPT, CLAUDE CODE, MIDJOURNEY, CLAUDE DESIGN, CANVA, VS CODE, SETAPP, POPCLIP, CAPCUT, SQUARESPACE, AFFINITY, ASANA, OBSIDIAN, ICLOUD & MORE
 </p>
 
 <h3 align="center"><b>HARDWARE</b></h3>
@@ -36,6 +36,5 @@ NOTION, ADOBE CREATIVE SUITE, CLAUDE AI, CHATGPT, GEMINI, MIDJOURNEY, CANVA, VS 
   <img src="https://img.shields.io/badge/BUILDING_IN_PUBLIC-F791E4?style=for-the-badge&logoColor=1a1a1a" alt="Building In Public" />
   <img src="https://img.shields.io/badge/ADHDER-F791E4?style=for-the-badge&logoColor=1a1a1a" alt="ADHDer" />
   <img src="https://img.shields.io/badge/BLACK_CAT_MAMA-F791E4?style=for-the-badge&logoColor=1a1a1a" alt="Black Cat Mama" />
-  <img src="https://img.shields.io/badge/MADE_WITH_SASS-F791E4?style=for-the-badge&logoColor=1a1a1a" alt="Made With Sarcasm" />
 </p>
 
