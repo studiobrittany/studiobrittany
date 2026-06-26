@@ -23,7 +23,6 @@
   <img src="assets/barbed-wire.svg" width="100%" alt="barbies">
 </p>
 
-<br>
 
 <p align="center">
   <img src="assets/tech-stack.svg" width="100%" alt="tech stack">
@@ -39,7 +38,6 @@ NOTION, ADOBE CREATIVE SUITE, CLAUDE COWORK, CHATGPT, CLAUDE CODE, MIDJOURNEY, C
   <img src="assets/barbed-wire.svg" width="100%" alt="barbies">
 </p>
 
-<br>
 
 <p align="center">
   <img src="assets/hardware.svg" width="100%" alt="hardware">
@@ -58,7 +56,6 @@ NOTION, ADOBE CREATIVE SUITE, CLAUDE COWORK, CHATGPT, CLAUDE CODE, MIDJOURNEY, C
   <img src="assets/barbed-wire.svg" width="100%" alt="barbies">
 </p>
 
-<br>
 
 <p align="center">
   <img src="assets/vibes.svg" width="100%" alt="vibes">
